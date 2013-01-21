@@ -52,7 +52,7 @@
 		 * 8: Center Left
 		 * @var number
 		 */
-		private $watermarkPosition = 0;
+        private $watermarkPosition = 0;
 
 		/**
 		 * 
